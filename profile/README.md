@@ -31,11 +31,9 @@
 
 
 ## Role 
-##### 이름을 클릭해 보세요!
-
 
 <details>
-<summary>이준석</summary>
+<summary>이준석 ( 과정, 강의, 캘린더 )</summary>
 <div markdown="1">
 	
 # 과정
