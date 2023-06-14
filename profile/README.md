@@ -52,14 +52,20 @@
 	<summary>Service</summary>
 	
 	```java
-	@Query(value = "SELECT 
-		nvl(max(s.studyCount), 0) 
-	  FROM Study s 
-	 RIGHT JOIN s.training t 
-	 WHERE t.trainingCode IN :trainingCodeList 
-	 GROUP by t.trainingCode 
-	 ORDER by t.trainingCode DESC")
-	List<Long> findByTrainingCodes(List<Long> trainingCodeList);
+	Pageable pageable = PageRequest.of(page - 1, 7, Sort.by("trainingCode").descending());
+
+	Page<Training> foundList = trainingRepository.findByTrainingDeleteYn(pageable, "N");
+	Page<TrainingDTO> foundDTOList = foundList.map(training -> modelMapper.map(training, TrainingDTO.class));
+	List<Long> trainingCodeList = foundList.map(Training::getTrainingCode).toList();
+	List<Long> foundCountList = studyRepository.findByTrainingCodes(trainingCodeList);
+
+	List<TrainingDTO> list = foundDTOList.toList();
+
+	for (int i = 0; i < foundCountList.size(); i++) {
+		list.get(i).setStudyCount(foundCountList.get(i));
+	}
+
+	return new PageImpl<>(list, pageable, trainingRepository.countByTraining());
 	```
 	
 	<summary>Repository</summary>
