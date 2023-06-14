@@ -37,7 +37,7 @@
 <details>
 <summary>이준석</summary>
 <div markdown="1">
-<br>
+	
 # 과정
 
  <details>
