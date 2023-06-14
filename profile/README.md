@@ -77,9 +77,6 @@
   		 ORDER by t.trainingCode DESC")
   List<Long> findByTrainingCodes(List<Long> trainingCodeList);
   ```
-</details>
-
-</details>
 	
 <br>
 
