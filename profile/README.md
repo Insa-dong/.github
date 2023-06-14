@@ -87,12 +87,18 @@
 	</details>
 <br>
 
-# 강의
+<details> 
+	<summary>강의</summary>
+  <br>
+  <br>
+ <details>
+
+<summary>실행영상</summary>
 
  <details>
-<summary>과정 실행영상</summary>
 
 ![강의 실행영상](https://github.com/Insa-dong/.github/assets/126157268/ca1e4ff9-bfc7-44cf-887e-ba364153418e)
+</details>
 </details>
 
 > CRUD 와 검색기능 구현
