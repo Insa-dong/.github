@@ -35,13 +35,14 @@
 <details>
 <summary>이준석 ( 과정, 강의, 캘린더 )</summary>
 <div markdown="1">
-	
+
+ <br>
 <details> 
 	<summary>과정</summary>
 
  <details>
 
-  
+  <br>
 <summary>실행영상</summary>
 	 
 ![과정 실행영상](https://github.com/Insa-dong/.github/assets/126157268/7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10)
