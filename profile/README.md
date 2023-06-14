@@ -48,8 +48,8 @@
 
 > CRUD 와 검색기능 구현
 - 과정 코드로 회차 조회시 한번의 통신으로 List 를 리턴받습니다.
-	  <details>
-   
+
+  <details> 
 <summary>Service</summary>
 
 	```java
@@ -77,6 +77,8 @@
   		 ORDER by t.trainingCode DESC")
   List<Long> findByTrainingCodes(List<Long> trainingCodeList);
   ```
+</details>
+
 </details>
 	
 <br>
