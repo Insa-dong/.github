@@ -36,7 +36,8 @@
 <summary>이준석 ( 과정, 강의, 캘린더 )</summary>
 <div markdown="1">
 	
-# 과정
+<details> 
+	<summary>과정</summary>
 
  <details>
 <summary>과정 실행영상</summary>
@@ -78,7 +79,7 @@
 	 ORDER by t.trainingCode DESC")
 	List<Long> findByTrainingCodes(List<Long> trainingCodeList);
 	```
-	
+	</details>
 <br>
 
 # 강의
