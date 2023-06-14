@@ -117,7 +117,6 @@
  <details>
 <summary>실행영상</summary>
 
-<details>
 	
 ![캘린더 실행영상](https://github.com/Insa-dong/.github/assets/126157268/dca7b151-202e-4b29-a78c-78c72a059d2f)
 </details>
