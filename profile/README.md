@@ -81,7 +81,6 @@
 	List<Long> findByTrainingCodes(List<Long> trainingCodeList);
 	```
 	
-	 </details>
 <br>
 
 # 강의
