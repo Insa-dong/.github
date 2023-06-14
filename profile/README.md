@@ -41,8 +41,8 @@
 <br>
 * <b>과정 전체 실행영상</b>
    
-https://user-images.githubusercontent.com/126157268/245903467-7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10.gif
-
+[https://user-images.githubusercontent.com/126157268/245903467-7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10.gif
+](https://user-images.githubusercontent.com/126157268/245903467-7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10.gif)https://user-images.githubusercontent.com/126157268/245903467-7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10.gif
 	- 간단한 CRUD 와 검색 기능 구현
 	
 <br>
