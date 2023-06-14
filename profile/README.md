@@ -40,7 +40,9 @@
 	<summary>과정</summary>
 
  <details>
-<summary>과정 실행영상</summary>
+
+  
+<summary>실행영상</summary>
 	 
 ![과정 실행영상](https://github.com/Insa-dong/.github/assets/126157268/7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10)
  </details>
