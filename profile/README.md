@@ -38,8 +38,6 @@
 <summary>이준석</summary>
 <div markdown="1">
 <br>
-<br>
-	
 # 과정
 
  <details>
@@ -71,8 +69,9 @@
 
 ![강의 실행영상](https://github.com/Insa-dong/.github/assets/126157268/ca1e4ff9-bfc7-44cf-887e-ba364153418e)
 </details>
+
 > CRUD 와 검색기능 구현
-- 
+ 
 
 # 캘린더
 
