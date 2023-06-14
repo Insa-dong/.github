@@ -28,3 +28,18 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp;
+
+
+## Role 
+##### 이름을 클릭해 보세요!
+
+
+<details>
+<summary>이준석</summary>
+<div markdown="1">
+<br>
+<br>
+
+</details>
+
+
