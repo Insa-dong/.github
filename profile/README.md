@@ -39,14 +39,24 @@
 <div markdown="1">
 <br>
 <br>
-* <b>과정 전체 실행영상</b>
+* <b>과정 실행영상</b>
    
-[https://user-images.githubusercontent.com/126157268/245903467-7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10.gif
-](https://user-images.githubusercontent.com/126157268/245903467-7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10.gif)https://user-images.githubusercontent.com/126157268/245903467-7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10.gif
-	- 간단한 CRUD 와 검색 기능 구현
+![과정 실행영상](https://github.com/Insa-dong/.github/assets/126157268/7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10)
+	- CRUD 와 검색기능 구현
 	
 <br>
 
+* <b>강의 실행영상</b>
+
+![강의 실행영상](https://github.com/Insa-dong/.github/assets/126157268/ca1e4ff9-bfc7-44cf-887e-ba364153418e)
+
+	- CRUD 와 검색기능 구현
+
+ * <b>캘린더 실행영상</b>
+
+![캘린더 실행영상](https://github.com/Insa-dong/.github/assets/126157268/dca7b151-202e-4b29-a78c-78c72a059d2f)
+
+	- CRUD 와 정렬기준 변경 구현
 </details>
 
 
