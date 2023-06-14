@@ -45,11 +45,12 @@
 ![과정 실행영상](https://github.com/Insa-dong/.github/assets/126157268/7f6f6afd-fed5-47ff-aa7d-2d0ea2cdae10)
 
 > CRUD 와 검색기능 구현
+- 과정 코드로 회차 조회시 한번의 통신으로 List 를 리턴받습니다.
 ```java
 @Query(value = "SELECT 
 			nvl(max(s.studyCount), 0) 
 		  FROM Study s 
-	    right JOIN s.training t 
+	    	 RIGHT JOIN s.training t 
 		 WHERE t.trainingCode IN :trainingCodeList 
 		 GROUP by t.trainingCode 
 		 ORDER by t.trainingCode DESC")
