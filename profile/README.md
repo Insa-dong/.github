@@ -46,16 +46,16 @@
 
 > CRUD 와 검색기능 구현
 - 과정 코드로 회차 조회시 한번의 통신으로 List 를 리턴받습니다.
-```java
-@Query(value = "SELECT 
-			nvl(max(s.studyCount), 0) 
-		  FROM Study s 
-	    	 RIGHT JOIN s.training t 
-		 WHERE t.trainingCode IN :trainingCodeList 
-		 GROUP by t.trainingCode 
-		 ORDER by t.trainingCode DESC")
-List<Long> findByTrainingCodes(List<Long> trainingCodeList);
-```
+  ```java
+  @Query(value = "SELECT 
+  			nvl(max(s.studyCount), 0) 
+  		  FROM Study s 
+  	    	 RIGHT JOIN s.training t 
+  		 WHERE t.trainingCode IN :trainingCodeList 
+  		 GROUP by t.trainingCode 
+  		 ORDER by t.trainingCode DESC")
+  List<Long> findByTrainingCodes(List<Long> trainingCodeList);
+  ```
 
 	
 <br>
