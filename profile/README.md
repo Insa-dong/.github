@@ -98,20 +98,27 @@
  <details>
 
 ![강의 실행영상](https://github.com/Insa-dong/.github/assets/126157268/ca1e4ff9-bfc7-44cf-887e-ba364153418e)
+
 </details>
 </details>
 
 > CRUD 와 검색기능 구현
  
 
-# 캘린더
-
+<details>
+<summary>캘린더</summary>
+	<br>
+	<br>
+	
  <details>
-<summary>캘린더 실행영상</summary>
+<summary>실행영상</summary>
 
+<details>
+	
 ![캘린더 실행영상](https://github.com/Insa-dong/.github/assets/126157268/dca7b151-202e-4b29-a78c-78c72a059d2f)
 </details>
 
+</details>
 > CRUD 와 정렬기준 변경 구현
 </details>
 
