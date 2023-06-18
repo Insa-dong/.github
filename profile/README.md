@@ -146,7 +146,7 @@
 ### ⌚️ 근태
   <br>
 
- 실행영상
+![근태 시연](https://github.com/Insa-dong/.github/assets/120547603/80d9bffe-2f62-4fe7-a974-ca3cfae9e5a6)
 
  <br>
 
@@ -170,8 +170,8 @@
 ### 🚥 연차
   <br>
 
- 실행영상
- 
+![연차 시연](https://github.com/Insa-dong/.github/assets/120547603/5783e3ba-25c1-44c6-89bc-669a82abcef8)
+
  <br>
 
  > 내 연차 조회 
@@ -201,6 +201,7 @@
 
    <br>
 </details>
+
 <details>
 <summary>김유림 ( 구성원, 휴직 )</summary>
 <div markdown="1">
