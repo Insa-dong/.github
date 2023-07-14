@@ -216,6 +216,7 @@
 
 ### ✨ 구성원
 <br>
+<img width="100%" src="https://github.com/Insa-dong/.github/assets/121031400/5e093889-8e79-4114-b903-8f9facc0ce72.gif"/>
 ![구성원 관리자 시연영상](https://github.com/Insa-dong/.github/assets/121031400/5e093889-8e79-4114-b903-8f9facc0ce72)
   <br>
 
