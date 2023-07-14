@@ -216,9 +216,11 @@
 
 ### ✨ 구성원
 <br>
+관리자
 <img width="100%" src="https://github.com/Insa-dong/.github/assets/121031400/5e093889-8e79-4114-b903-8f9facc0ce72.gif"/>
 <br>
 <br>
+사용자
 <img width="100%" src="https://github.com/Insa-dong/.github/assets/121031400/907cdef6-3bc5-4fde-93b7-c6301ac27cbb.gif"/>
 <br>
 
