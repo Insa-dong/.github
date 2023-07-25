@@ -3,7 +3,7 @@
 > More Than Us는 개개인의 능력을 단순히 합친 것 보다 더 나은 퍼포먼스를 보여줄 수 있는 그룹웨어를 지향합니다.
 
 ###### _하이미디어 아카데미  Final Project_            
-[이준석](https://github.com/dlwnstjr0310), [김규철](), [김태훈](), [김유림](), [정현우](https://github.com/heyw00)
+[이준석](https://github.com/dlwnstjr0310), [김규철](), [김태훈](), [김유림](https://github.com/yurim-kim22), [정현우](https://github.com/heyw00)
   
   > 개발: 2023.05.09. ~ 2023.06.09.
 
